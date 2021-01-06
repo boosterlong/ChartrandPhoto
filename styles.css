@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    overflow: hidden;
   }
   
   .hero-image {
@@ -120,10 +121,6 @@ h1 {
     .hero-text {
     top:60%;
     }
-
-body {
-    overflow: hidden;
-}
 
     h3.descrip { 
         display:none;
