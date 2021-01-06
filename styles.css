@@ -115,7 +115,7 @@ h1 {
         font-size: 3vh;
     }
     .hero-image {
-        background-image: url("mobileLanding2.jpg");
+        background-position: bottom;
     }
 
     .hero-text {
